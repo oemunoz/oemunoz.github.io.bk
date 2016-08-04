@@ -90,7 +90,7 @@
 
 			// Flags if the presentation is running in an embedded mode,
 			// i.e. contained within a limited portion of the screen
-			embedded: false,
+			embedded: true,
 
 			// Flags if we should show a help overlay when the questionmark
 			// key is pressed
@@ -114,16 +114,16 @@
 			autoSlideMethod: null,
 
 			// Enable slide navigation via mouse wheel
-			mouseWheel: false,
+			mouseWheel: true,
 
 			// Apply a 3D roll to links on hover
 			rollingLinks: false,
 
 			// Hides the address bar on mobile devices
-			hideAddressBar: true,
+			hideAddressBar: false,
 
 			// Opens links in an iframe preview overlay
-			previewLinks: false,
+			previewLinks: true,
 
 			// Exposes the reveal.js API through window.postMessage
 			postMessage: true,

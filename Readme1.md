@@ -1,11 +1,11 @@
----
+
 title: "Habits"
 author: John Doe
 date: March 22, 2005
 output: revealjs::revealjs_presentation
----
 
-# Reveal MarkDown Preview
+
+### Reveal MarkDown Preview
 <!--   ....    -->
 
 <!--    
@@ -36,7 +36,7 @@ Alice <-- Bob: another authentication NEW
 
 @enduml
 ```
-----
+
 
 ![Alt text](http://g.gravizo.com/g?
   digraph G {
