@@ -1,3 +1,7 @@
+title: "Habits"
+author: John Doe
+date: March 22, 2005
+output: revealjs::revealjs_presentation
 ---
 layout: post
 title:  "Understanding GitHub"
